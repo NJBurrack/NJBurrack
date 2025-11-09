@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njburrack&label=Profile%20views&color=0e75b6&style=flat" alt="njburrack" /> </p>
 
-- 🌱 I’m currently learning **Cloud Management, Pycharm utilization, DRFs & Database Management**
+- 🌱 I’m currently learning: **Cloud Management, Pycharm utilization, DRFs & Database Management**
 
-- 👨‍💻 My projects are available at [https://github.com/NJBurrack](https://github.com/NJBurrack)
+- 👨‍💻 You can checkout my projects: [https://github.com/NJBurrack](https://github.com/NJBurrack)
 
 - 💬 Ask me about **Django/APIs, PostgreSQL,N8N**
 
-- 📫 How to reach me **njburrack AT outlook.com**
+- 📫 You can reach me at: **njburrack @ outlook.com**
 
-- ⚡ Fun fact **I enjoy hiking & trekking!🍃⛰️☁️🥾🎒🏕️📸⛰️**
+- ⚡ Fun fact about me: **I enjoy hiking & trekking!🍃⛰️☁️🥾🎒🏕️📸⛰️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
