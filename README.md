@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njburrack&label=Profile%20views&color=0e75b6&style=flat" alt="njburrack" /> </p>
 
-- 🌱 I’m currently learning **Cloud Management, Pycharm utilization**
+- 🌱 I’m currently learning **Cloud Management, Medical Transcriber API**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NJBurrack](https://github.com/NJBurrack)
 
