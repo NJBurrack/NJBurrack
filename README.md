@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="header.png
-  " alt="Jonas Burrack — Python · Backend · Applied AI" width="100%">
+  <img src="header.png" alt="Jonas Burrack — Python · Backend · Applied AI" width="100%">
 </p>
 
 I build practical software with Python: backends, API integrations, automation
